@@ -4,7 +4,8 @@
   "description": "Ai Image Generation app with subscription system",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js",
+    "server": "nodemon index.js"
   },
   "author": "RAM THAKUR",
   "type": "module",
