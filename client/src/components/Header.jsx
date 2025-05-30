@@ -51,7 +51,9 @@ const Header = () => {
         transition={{ delay: 0.6, duration: 0.8 }}
       >
         Unleash boundless creativity with AI – Turn your thoughts into stunning
-        visual art instantly. Just type, and watch the magic unfold.
+        visual art instantly. Just type, and watch the magic unfold. Explore
+        even more with our subscription plans for generating high-quality images
+        without limits.
       </motion.p>
 
       <motion.button
@@ -95,7 +97,7 @@ const Header = () => {
         transition={{ delay: 1.2, duration: 0.8 }}
         className="mt-2 text-neutral-600"
       >
-        Generated images from ImageZ
+        Generated images from Imagezify
       </motion.p>
     </motion.div>
   );
